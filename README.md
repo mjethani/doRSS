@@ -1,5 +1,7 @@
 ## doRSS 1.0
 
+<img src="screenshot.png">
+
 A Google Chrome extension for handling RSS feeds.
 
 https://chrome.google.com/webstore/detail/fklefnabieefdemfnjkoobmmfnehnegh
